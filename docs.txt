@@ -1,0 +1,2 @@
+Este es otro texto
+Este es el texto de la rama B
